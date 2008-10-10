@@ -44,7 +44,8 @@ if (plot.type == "regplot") {
   abline(v=1:n, h=1:m, col = "lightgray", lty = 2 )
   for (i in 1:n) text(rep((1:n)[i],m),1:m,as.character(x$tab[i,]),cex=.8, col = "lightgray")
 
-  get(getOption("device"))()
+ 
+  dev.new()
   #scaled solution
   xa <- x$row.scores[,plot.dim]
   ya <- x$col.scores[,plot.dim]
@@ -84,7 +85,7 @@ if (plot.type == "transplot") {
 	legend(legpos, legend = paste("Dimension ",plot.dim), lty = 1:length(plot.dim), 
   col = 1:length(plot.dim), bg = "white")
   
-  get(getOption("device"))()
+  dev.new()
   matplot(1:m, ya, type = type, xlab = "column categories", ylab = "column scores", 
   main = main2, xaxt = "n", pch = 1,...)
   axis(1, at = 1:(dim(x$tab)[2]), labels = colnames(x$tab))
@@ -248,7 +249,7 @@ if (plot.type == "benzplot")
    dmax <- max(dr,do)
    if (missing(main)) main2 <- paste("Benzecri Distances - Columns") else main2 <- paste(main," - Columns")
   
-   get(getOption("device"))()
+   dev.new()
    plot(do, dr, xlim = c(0,dmax), ylim = c(0,dmax), xlab = "observed distances", ylab = "fitted distances",
         main = main2, axes=FALSE, col = "BLUE",...)
    abline(0,1)
