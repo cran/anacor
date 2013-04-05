@@ -1,6 +1,6 @@
 94d55d512a9ba36caa9b7df079bae19f *COPYING
 63c3183daffe172b9e363b57bbaf3a41 *COPYRIGHTS
-2af5ab1e0bdb23672c5d319cd7cbd824 *DESCRIPTION
+909249699118a9c0bd72fd2bcfdda3ed *DESCRIPTION
 8abdce05b66b4ad80b3195cdfadc0a60 *NAMESPACE
 2257d4fc47f16f42ed4636729e24e676 *R/acovuv.r
 3aa5e1dd13403bf222d478840a83b0be *R/anacor.R
@@ -14,7 +14,7 @@ cfe8f1fbe1e9ed660f8af21a5aca2436 *R/gsvdDer.r
 54ef2e3e89279231b77edcbc6b1943df *R/gsvdScal.r
 8ae67ef68ba1c10d569c043ad056f57f *R/mfunc.r
 30ec474776c725f751dbd4b1f88cfe86 *R/mkCrisp.R
-936acf497e388466a91864d7a103c72d *R/mkIndiList.R
+938fa583574c74bdeba19e4b6b46aff2 *R/mkIndiList.R
 74857bcbf51f8454f182b96f237eb94a *R/plot.anacor.R
 deaa54194f76a06649d4e20991d93c24 *R/plot3d.anacor.R
 00d8517e3bfcbd306f5fd7012e7aabb1 *R/plot3dstatic.R
@@ -34,11 +34,11 @@ b5db30146e830f52967515e4fe770caf *data/srole.rda
 7c66db14c9812027bfd2667d0d2193ca *inst/CITATION
 f0133a6246d33b2f74e55a29acf3d625 *inst/doc/anacor.Rnw
 9f7dc47da4aa56b03aefcf566c27fb96 *inst/doc/anacor.bib
-8b06f6dfc1ec80e344b076b9d6928a69 *inst/doc/anacor.pdf
-6159f6bb30b7ff1533b05905357aa1ce *inst/doc/bit2dcols.pdf
-78fe8bcad67d0f3f337b7d52d5d67bae *inst/doc/bit2drows.pdf
-c0aca2a4cc04badd14a02e9bf64c2770 *inst/doc/bit5dcols.pdf
-3f923b6a0743409c7a5bb3ce48e11874 *inst/doc/bit5drows.pdf
+bd96f411cdcd45e81e1a89e52dca868b *inst/doc/anacor.pdf
+1a248b519b05c88baa2ba441c3debc19 *inst/doc/bit2dcols.pdf
+1799f6a671c4f178b85003f014a16ef1 *inst/doc/bit2drows.pdf
+5dfad914728fca8b2504ac555a26dc2c *inst/doc/bit5dcols.pdf
+492f5a046feaf2f4e921edd050ea51ac *inst/doc/bit5drows.pdf
 455d04aaae62204c6a4b70c35d79c134 *inst/doc/glassreg1.pdf
 6a35db49f631e0f440e30d8329ee61bb *inst/doc/glassreg2.pdf
 fcd9cbc2674268f163f1287bcc9ce4ea *inst/doc/maxord.pdf
