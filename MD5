@@ -1,6 +1,5 @@
-94d55d512a9ba36caa9b7df079bae19f *COPYING
-1b583b21237b6024a409da246c41d9f6 *DESCRIPTION
-1d48447c42f780735684224f7b96a061 *NAMESPACE
+2b730dc043d3adb0d88750e425e02ce8 *DESCRIPTION
+4639427118dc08476f68c7034c4f8616 *NAMESPACE
 2257d4fc47f16f42ed4636729e24e676 *R/acovuv.r
 2f838aa7725bef97cde2816a17b8015d *R/anacor.R
 60d7e96aa4915c85f047f6f693df5b9d *R/benzdist.R
@@ -47,7 +46,7 @@ fcd9cbc2674268f163f1287bcc9ce4ea *inst/doc/vignettes/maxord.pdf
 7e8f1cef81be73b96348c8a2f6a53ced *inst/doc/vignettes/maxtrans.pdf
 9cd57d5e7b0a2721ac50702376c24a72 *inst/doc/vignettes/tochergraph.pdf
 bafa2228ff7bf6f5cedbb469b0d16ada *inst/doc/vignettes/tocherjoint.pdf
-e091212d45629de8a46729df5c1eb66a *man/anacor-package.Rd
+5474144e3f7616f358dd14be482d9cae *man/anacor-package.Rd
 444b6607fa7096574129c4a922835561 *man/anacor.Rd
 73b571366640503b55166f931b2030e2 *man/bitterling.Rd
 4e99c5b2d44c31eead3c9fdbd12f4463 *man/burtTable.Rd
@@ -56,7 +55,7 @@ e091212d45629de8a46729df5c1eb66a *man/anacor-package.Rd
 d3c3e86ead8abaf1837a4db8a7cf236f *man/glass.Rd
 b34aaf9d6476e66c00e656a804cb6de5 *man/maxwell.Rd
 eccb5801c3773b906ee30141337107f5 *man/mkIndiList.Rd
-0528a03538c8c80f42704361e3fdfa21 *man/plot.anacor.Rd
+8ca88a905d07451281f942e7b7963b3c *man/plot.anacor.Rd
 82e69e9fd8e86a47e68ebe579fa27cac *man/sleeping.Rd
 aba4055a879e964a222e115dd43221cd *man/spider.rd
 2e4ac9b4aad13366dcca8e18e4b316c8 *man/srole.Rd
