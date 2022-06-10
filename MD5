@@ -1,4 +1,4 @@
-15d70b0fbd51f5acbc90e0fcde2175b6 *DESCRIPTION
+6f62905c5c5a0cbfd693021177c97447 *DESCRIPTION
 c009dcf9dc6afb2d20f3edc195dfec92 *NAMESPACE
 2257d4fc47f16f42ed4636729e24e676 *R/acovuv.r
 68fa00634939177b95e44af1803655f6 *R/anacor.R
@@ -26,7 +26,7 @@ c8d33ae9f8647761b7e0111c55c50ce3 *data/sleeping.rda
 4cd351bff5c91d46edcaf6a83b68c4e1 *data/spider.rda
 b5db30146e830f52967515e4fe770caf *data/srole.rda
 9d27f219b660e463f292c77b96404d19 *data/tocher.rda
-7c66db14c9812027bfd2667d0d2193ca *inst/CITATION
+e84583878b029e1d2a657b3973a5cef8 *inst/CITATION
 63c3183daffe172b9e363b57bbaf3a41 *inst/COPYRIGHTS
 15f8903c01e043b6a5082d89e6bd76fc *inst/doc/vignettes/anacor.R
 f0133a6246d33b2f74e55a29acf3d625 *inst/doc/vignettes/anacor.Rnw
@@ -42,7 +42,7 @@ fcd9cbc2674268f163f1287bcc9ce4ea *inst/doc/vignettes/maxord.pdf
 7e8f1cef81be73b96348c8a2f6a53ced *inst/doc/vignettes/maxtrans.pdf
 9cd57d5e7b0a2721ac50702376c24a72 *inst/doc/vignettes/tochergraph.pdf
 bafa2228ff7bf6f5cedbb469b0d16ada *inst/doc/vignettes/tocherjoint.pdf
-a740d7879cdeb8a8b97c719161a869a4 *man/anacor.Rd
+9e49623a784c6f630f66d2964897f041 *man/anacor.Rd
 73b571366640503b55166f931b2030e2 *man/bitterling.Rd
 4e99c5b2d44c31eead3c9fdbd12f4463 *man/burtTable.Rd
 9b155f8b7402b656fa666f5bc3dc69fe *man/expandFrame.Rd
@@ -50,8 +50,8 @@ a740d7879cdeb8a8b97c719161a869a4 *man/anacor.Rd
 d3c3e86ead8abaf1837a4db8a7cf236f *man/glass.Rd
 b34aaf9d6476e66c00e656a804cb6de5 *man/maxwell.Rd
 eccb5801c3773b906ee30141337107f5 *man/mkIndiList.Rd
-a723d08f22d2f1a27578e2683321ed7d *man/plot.anacor.Rd
+da537dc7b0c4816683ac7c6a7cf439ef *man/plot.anacor.Rd
 82e69e9fd8e86a47e68ebe579fa27cac *man/sleeping.Rd
 aba4055a879e964a222e115dd43221cd *man/spider.rd
-2e4ac9b4aad13366dcca8e18e4b316c8 *man/srole.Rd
+897fe8b853d777269b60e7010420959a *man/srole.Rd
 1da2af81ec0eac80bc4bd12f04e77fcc *man/tocher.Rd
